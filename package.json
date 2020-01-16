@@ -28,7 +28,7 @@
     "express-session": "^1.14.0",
     "formidable": "^1.0.3",
     "iconv-lite": "^0.4.16",
-    "jquery": "^2.1.1",
+    "jquery": "^3.4.1",
     "jsx-loader": "^0.13.2",
     "lodash": "^3.0.0",
     "modelservicesdk": "^2.0.1",
