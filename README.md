@@ -1,4 +1,4 @@
-# GeoModelServiceContainer
+# OpenGMS Wrapper System
 
 [![Travis (.org)](./doc/OpenGMS.svg)](http://geomodeling.njnu.edu.cn/)
 
