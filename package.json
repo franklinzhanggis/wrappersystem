@@ -30,7 +30,7 @@
     "iconv-lite": "^0.4.16",
     "jquery": "^2.1.1",
     "jsx-loader": "^0.13.2",
-    "lodash": "^3.0.0",
+    "lodash": "^4.17.19",
     "modelservicesdk": "^2.0.1",
     "mongoose": "^4.8.5",
     "morgan": "^1.6.1",
